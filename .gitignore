@@ -1,0 +1,16 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+cache
+artifacts
+web/target
+config.yaml
+nohup.out
+alien888
+target/
+personal_notes/
+web/assets/img/transparent_heros
+web/*.db
